@@ -1,8 +1,8 @@
 # PSN-Store
 
-A clone PSN-Store developement with SPA (one page and many components)
+A clone PSN-Store development with SPA (one page and many components)
 
-<img src="assets/print.png" alt="Layout" width="600"/>
+<img src="src/assets/print.png" alt="Layout" width="600"/>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
